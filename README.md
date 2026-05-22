@@ -1,10 +1,11 @@
 ### Hi there 👋
-I have around few Month of experience in web development, mostly with **Laravel**(php) and experienced level in **fastapi**(python)
+I have around few Month of experience in web development.
+
 - 🌱 I’m currently learning reactjs, nodejs, nextjs
 <!--
 **SumitSharmaG/the-sumit-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started :--
 - 🔭 I’m currently working on Chat-App
 
 - 👯 I’m looking to collaborate on ...
