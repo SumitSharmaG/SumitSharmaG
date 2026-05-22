@@ -1,5 +1,18 @@
-Hi there 👋
+### Hi there 👋
+I have around few Month of experience in web development, mostly with **Laravel**(php) and experienced level in **fastapi**(python)
+- 🌱 I’m currently learning reactjs, nodejs, nextjs
+<!--
+**SumitSharmaG/the-sumit-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I have around few month of experience in web development, mostly with Laravel(php) and experienced level in fastapi(python)
+Here are some ideas to get you started:
+- 🔭 I’m currently working on Chat-App
 
-🌱 I’m currently learning reactjs, nodejs, nextjs
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+-->
