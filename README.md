@@ -1,10 +1,15 @@
-### Hi there 👋
-I have around few Month of experience in web development.
+### Hi there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm SUMIT SHARMA
 
+I have around few Month of experience in web development.
 - 🌱 I’m currently learning reactjs, nodejs, nextjs
 <!--
 **SumitSharmaG/the-sumit-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
+<!--
+**SumitSharmaG/TheSumitSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 Here are some ideas to get you started :--
 - 🔭 I’m currently working on Chat-App
 
@@ -15,16 +20,6 @@ Here are some ideas to get you started :--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
--->
-
-### Hi there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm SUMIT SHARMA
-
-
-<!--
-**SumitSharmaG/TheSumitSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 -->
 
@@ -78,9 +73,3 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 </div>
-
-<h3>🔥My Stats: </h3>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sumitsharma372&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsharma372&layout=compact&theme=vision-friendly-dark)](https://github.com/sumitsharma372/github-readme-stats)
